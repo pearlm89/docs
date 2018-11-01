@@ -32,7 +32,7 @@ After you answer the provided questions, you can use `amplify help` at any time 
 The Amplify CLI uses AWS CloudFormation, and you can add or modify configurations locally before you push them for execution in your account. To see the status of the deployment at any time, run `amplify status`.
 
 ***Publishing Your Web App***
-
+ 
 Without making any changes to your React application, add web hosting as follows:
 ```
 amplify add hosting
